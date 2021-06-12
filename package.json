@@ -1,0 +1,23 @@
+{
+  "name": "pure-vanilla-js-routing",
+  "version": "1.0.0",
+  "description": "The page doesn’t reload upon navigating through the side links, but the content will change. \r I will be using eventListeners to change the view from one link to another.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amisra123/Pure-Vanilla-JS-Routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amisra123/Pure-Vanilla-JS-Routing/issues"
+  },
+  "homepage": "https://github.com/amisra123/Pure-Vanilla-JS-Routing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
